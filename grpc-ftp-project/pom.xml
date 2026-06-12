@@ -7,6 +7,9 @@
     <artifactId>grpc-ftp-project</artifactId>
     <version>1.0.2</version>
     <packaging>pom</packaging>
+    <modules>
+        <module>ftp-service-proto</module>
+    </modules>
     <name>grpc-ftp-project</name>
 
     <properties>
