@@ -9,6 +9,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>ftp-service-proto</module>
+        <module>ftp-service</module>
+        <module>ftp-service</module>
+        <module>ftp-service-client</module>
     </modules>
     <name>grpc-ftp-project</name>
 
